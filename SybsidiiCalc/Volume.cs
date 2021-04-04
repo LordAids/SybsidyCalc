@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace ClassLibrary1
+namespace SybsidiiCalc
 {
     /// <summary>
     /// Объём

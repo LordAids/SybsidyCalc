@@ -1,0 +1,16 @@
+C:\Users\lord_aids\source\repos\SybsidiiCalc\SybsidiiCalc\bin\Debug\net5.0\SybsidiiCalc.exe
+C:\Users\lord_aids\source\repos\SybsidiiCalc\SybsidiiCalc\bin\Debug\net5.0\SybsidiiCalc.deps.json
+C:\Users\lord_aids\source\repos\SybsidiiCalc\SybsidiiCalc\bin\Debug\net5.0\SybsidiiCalc.runtimeconfig.json
+C:\Users\lord_aids\source\repos\SybsidiiCalc\SybsidiiCalc\bin\Debug\net5.0\SybsidiiCalc.runtimeconfig.dev.json
+C:\Users\lord_aids\source\repos\SybsidiiCalc\SybsidiiCalc\bin\Debug\net5.0\SybsidiiCalc.dll
+C:\Users\lord_aids\source\repos\SybsidiiCalc\SybsidiiCalc\bin\Debug\net5.0\ref\SybsidiiCalc.dll
+C:\Users\lord_aids\source\repos\SybsidiiCalc\SybsidiiCalc\bin\Debug\net5.0\SybsidiiCalc.pdb
+C:\Users\lord_aids\source\repos\SybsidiiCalc\SybsidiiCalc\obj\Debug\net5.0\SybsidiiCalc.csprojAssemblyReference.cache
+C:\Users\lord_aids\source\repos\SybsidiiCalc\SybsidiiCalc\obj\Debug\net5.0\SybsidiiCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lord_aids\source\repos\SybsidiiCalc\SybsidiiCalc\obj\Debug\net5.0\SybsidiiCalc.AssemblyInfoInputs.cache
+C:\Users\lord_aids\source\repos\SybsidiiCalc\SybsidiiCalc\obj\Debug\net5.0\SybsidiiCalc.AssemblyInfo.cs
+C:\Users\lord_aids\source\repos\SybsidiiCalc\SybsidiiCalc\obj\Debug\net5.0\SybsidiiCalc.csproj.CoreCompileInputs.cache
+C:\Users\lord_aids\source\repos\SybsidiiCalc\SybsidiiCalc\obj\Debug\net5.0\SybsidiiCalc.dll
+C:\Users\lord_aids\source\repos\SybsidiiCalc\SybsidiiCalc\obj\Debug\net5.0\ref\SybsidiiCalc.dll
+C:\Users\lord_aids\source\repos\SybsidiiCalc\SybsidiiCalc\obj\Debug\net5.0\SybsidiiCalc.pdb
+C:\Users\lord_aids\source\repos\SybsidiiCalc\SybsidiiCalc\obj\Debug\net5.0\SybsidiiCalc.genruntimeconfig.cache

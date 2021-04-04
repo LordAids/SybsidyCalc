@@ -1,6 +1,6 @@
 using System;
 
-namespace ClassLibrary1
+namespace SybsidiiCalc
 {
     /// <summary>
     /// Начисление
